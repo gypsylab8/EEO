@@ -35,3 +35,13 @@ Coloque a planta em um local onde as pessoas possam tocar nas folhas. Certifique
 Teste a instalação tocando na planta. Verifique se as ações desejadas estão sendo realizadas corretamente.
 Faça ajustes necessários no código e na instalação para melhorar o desempenho e a estética.
 Divulgue sua instalação para outras pessoas experimentarem e desfrutarem da interação com a natureza.
+
+O projeto Experimentações EletrOrgânicas tem como objetivo desenvolver sistemas de computação física que possam interagir analógica e digitalmente com a flora e fauna de um ecossistema. Para isso, são utilizados sensores de capacitância conectados a um microcontrolador Arduino, que permitem a detecção do toque nas plantas.
+
+Além disso, outros sensores e atuadores podem ser incorporados ao projeto para amplificar a interação com o meio ambiente. Por exemplo, sensores de umidade do solo podem ser utilizados para monitorar a saúde das plantas e atuadores podem ser adicionados para regar as plantas automaticamente.
+
+Para realizar análises científicas, é possível utilizar o sensor de eletrofisiologia vegetal para medir a atividade elétrica das plantas, que pode ser correlacionada com fatores como a luminosidade, temperatura e umidade do solo. Além disso, é possível realizar análises de dados em tempo real com a ajuda de ferramentas como o software Processing.
+
+Para melhorar o projeto, podem ser desenvolvidos scripts para o Arduino que permitam a comunicação com outros dispositivos, como smartphones e tablets. Isso pode ser feito utilizando protocolos de comunicação sem fio como o Bluetooth ou o Wi-Fi.
+
+Outra possível melhoria seria a integração de elementos artísticos, como a incorporação de luzes e som para criar uma experiência mais imersiva para os usuários. Além disso, a instalação pode ser ampliada com a inclusão de novas espécies de plantas, criando assim um ecossistema ainda mais rico em interações e possibilidades.
