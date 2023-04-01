@@ -1,2 +1,2 @@
-# eeo
-Experimentaçoes Eletro-Organicas
+# EEO
+# Experimentaçoes Eletro-Organicas
