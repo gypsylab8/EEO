@@ -16,12 +16,16 @@ Em resumo, as plantas são objetos de estudo importantes em diversas áreas do c
 Materiais:
 Arduino (ou similar)
 Cabos jumper
-Sensor de toque capacitivo
-Planta(s) com folhas grandes
-Software:
+Sensor de toque capacitivo (resistores)
+Planta(s) com folhas grandes 
+S
+oftware:
 Arduino IDE
 Processing IDE
+
+
 Aqui estão os passos para criar a instalação:
+
 Conecte o sensor capacitivo ao Arduino usando os cabos jumper. Conecte uma das extremidades do sensor ao pino de entrada analógico do Arduino e a outra extremidade ao GND.
 Abra a Arduino IDE e escreva o código para ler a entrada do sensor capacitivo. Há bibliotecas disponíveis para isso, como a CapacitiveSensor.h. Certifique-se de calibrar o sensor para filtrar o ruído de aproximação das pessoas e detectar apenas o toque na planta.
 Conecte o Arduino ao computador e carregue o código no Arduino.
